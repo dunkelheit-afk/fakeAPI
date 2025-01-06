@@ -1,11 +1,16 @@
 {
-  "posts": [
+  "data": [
     {
       "id": 1,
-      "title": "hello"
+      "co2_ppm": 400.5,
+      "humidity": 65.2,
+      "temperature": 22.5
+    },
+    {
+      "id": 2,
+      "co2_ppm": 410.3,
+      "humidity": 67.8,
+      "temperature": 23.0
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
