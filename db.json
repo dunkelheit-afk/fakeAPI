@@ -1,5 +1,5 @@
 {
-  "data": [
+  "posts": [
     {
       "id": 1,
       "co2_ppm": 400.5,
@@ -12,5 +12,8 @@
       "humidity": 67.8,
       "temperature": 23.0
     }
-  ]
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
